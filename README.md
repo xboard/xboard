@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Apache%20Druid-29F1FB?logo=Apache%20Druid&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Oracle-f80000?logo=oracle&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=Apache%20Cassandra&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 </p>
 
 #### Data engineering stacks
@@ -33,13 +37,15 @@
   <img src="https://img.shields.io/badge/Apache%20Flume-0E85CD?logo=Apache&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-007A88?logo=Apache%20Airflow&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?logo=Apache%20Kafka&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?logo=Apache%20Cassandra&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Hadoop-d22128?logo=apache&logoColor=white&style=flat"/>
 </p>
 
 
 #### Programming stacks
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon%20aws&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat"/>
@@ -47,6 +53,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat"/>
 </p>
 
@@ -55,9 +63,9 @@
 
 ### Stats
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xboard&theme=default&exclude_repo=xboard,xboard.github.io&hide=css,html,jupyter%20notebook)](https://github.com/xboard/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xboard&theme=default&exclude_repo=xboard,xboard.github.io&hide=css,html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=xboard&theme=default&count_private=true&show_icons=true)](https://github.com/xboard/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xboard&theme=default&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://stackexchange.com/users/223744"><img src="https://stackexchange.com/users/flair/223744.png?theme=clean" width="208" height="58" alt="profile for xboard on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for xboard on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
