@@ -38,6 +38,9 @@
   <img src="https://img.shields.io/badge/Apache%20Airflow-007A88?logo=Apache%20Airflow&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?logo=Apache%20Kafka&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Hadoop-d22128?logo=apache&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Apache%20Druid-29F1FB?logo=Apache%20Druid&logoColor=white&style=flat" />
+  
 </p>
 
 
@@ -55,6 +58,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat"/>
 </p>
 
