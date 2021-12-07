@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Apache%20Druid-29F1FB?logo=Apache%20Druid&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Presto-%235890FF.svg?&style=flat&logo=presto&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Oracle-f80000?logo=oracle&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?logo=Apache%20Kafka&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Hadoop-d22128?logo=apache&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/presto-%235890FF.svg?&style=flat&logo=presto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Presto-%235890FF.svg?&style=flat&logo=presto&logoColor=white" />
   
 </p>
 
