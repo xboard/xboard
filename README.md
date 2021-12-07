@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?logo=Apache%20Kafka&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Hadoop-d22128?logo=apache&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache%20spark&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Apache%20Druid-29F1FB?logo=Apache%20Druid&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/presto-%235890FF.svg?&style=flat&logo=presto&logoColor=white" />
   
 </p>
 
@@ -51,15 +51,15 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 
