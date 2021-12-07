@@ -56,8 +56,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
 </p>
