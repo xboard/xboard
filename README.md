@@ -9,9 +9,9 @@
 
 ---
 
-### Techs
+### Technologies
 
-#### Data science stacks
+#### Data science
 
 <p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white&style=flat" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 </p>
 
-#### Data engineering stacks
+#### Data engineering
 
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Flume-0E85CD?logo=Apache&logoColor=white&style=flat"/>
@@ -44,7 +44,7 @@
 </p>
 
 
-#### Programming stacks
+#### Programming
 
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon%20aws&logoColor=white&style=flat"/>
