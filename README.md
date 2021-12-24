@@ -71,10 +71,9 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=xboard&theme=default&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
-  <a href="https://stackexchange.com/users/223744"><img src="https://stackexchange.com/users/flair/223744.png?theme=clean#gh-dark-mode-only" width="208" height="58" alt="profile for xboard on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for xboard on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-  <a href="https://stackexchange.com/users/223744"><img src="https://stackexchange.com/users/flair/223744.png?theme=dark#gh-light-mode-only" width="208" height="58" alt="profile for xboard on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for xboard on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</p>
+[![StackExchange profile](https://stackexchange.com/users/flair/223744.png?theme=clean#gh-dark-mode-only)](https://stackexchange.com/users/223744#gh-dark-mode-only)
+[![StackExchange profile](https://stackexchange.com/users/flair/223744.png?theme=dark#gh-light-mode-only)](https://stackexchange.com/users/223744#gh-light-mode-only)
+
 
 <!--
 **xboard/xboard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
