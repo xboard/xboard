@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/xboard"><img src="https://img.shields.io/github/followers/xboard.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/fregis77"><img src="https://img.shields.io/twitter/follow/fregis77?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/xboard_"><img src="https://img.shields.io/twitter/follow/xboard_?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/flavioarruda"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
