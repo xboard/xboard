@@ -12,6 +12,8 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interrupted Time Series &lpar;ITS&rpar; in Python](https://www.xboard.dev/interrupted-time-series-python-part-I)
+- [Testing config and plugins](https://www.xboard.dev/first)
 <!-- BLOG-POST-LIST:END -->
 
 ---
