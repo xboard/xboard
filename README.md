@@ -13,7 +13,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Interrupted Time Series &lpar;ITS&rpar; in Python](https://www.xboard.dev/interrupted-time-series-python-part-I)
-- [Testing config and plugins](https://www.xboard.dev/first)
+- [Fastpages Notebook Blog Post](https://www.xboard.dev/jupyter/2020/02/20/test.html)
+- [An Example Markdown Post](https://www.xboard.dev/markdown/2020/01/14/test-markdown-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
