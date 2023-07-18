@@ -12,8 +12,8 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Interrupted Time Series &lpar;ITS&rpar; in Python](https://www.xboard.dev/interrupted-time-series-python-part-I)
-- [Fastpages Notebook Blog Post](https://www.xboard.dev/jupyter/test)
+- [Migrating my blog from fastpages to Quarto](https://xboard.dev/posts/2023_07_17_migrating_from_fastpages_to_quarto/index.html)
+- [Interrupted Time Series &lpar;ITS&rpar; in Python](https://xboard.dev/posts/2020_01_01_interrupted-time-series-python-part-I/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
