@@ -12,7 +12,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using pip-toolsto manage python’s project dependencies](https://xboard.dev/posts/2023_07_20_using_pip_tools_to_manage_python_project_dependencies/index.html)
+- [Using pip-tools to manage python’s project dependencies](https://xboard.dev/posts/2023_07_20_using_pip_tools_to_manage_python_project_dependencies/index.html)
 - [Interrupted Time Series &lpar;ITS&rpar; in Python](https://xboard.dev/posts/2020_01_01_interrupted-time-series-python-part-I/index.html)
 <!-- BLOG-POST-LIST:END -->
 
