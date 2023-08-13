@@ -12,7 +12,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tip: set depends_on_past=True in Airflow when creating a time series model pipeline](https://www.xboard.dev/posts/2023_07_27_tip_set_dependsonpast_in_airflow_when_creating_time_series_model_pipeline/index.html)
+- [Tip: set depends_on_past=True in Airflow when creating a forecasting model pipeline](https://www.xboard.dev/posts/2023_07_27_tip_set_dependsonpast_in_airflow_when_creating_forecasting_model_pipeline/index.html)
 - [Using pip-tools to manage project dependencies in Python](https://www.xboard.dev/posts/2023_07_20_using_pip_tools_to_manage_python_project_dependencies/index.html)
 - [Interrupted Time Series &lpar;ITS&rpar; in Python](https://www.xboard.dev/posts/2020_01_01_interrupted-time-series-python-part-I/index.html)
 <!-- BLOG-POST-LIST:END -->
